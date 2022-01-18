@@ -1,5 +1,5 @@
 # Java_codes
-Note: I'm working on this guide and I need your help! Please use [this form to give me feedback](https://forms.gle/Thba75c16Kt27onx6) on what you think should go in the next version. Thanks!
+Note: I'm working on this guide and I need your help! Please use [this form to give me feedback](https://forms.gle/Thba75c16Kt27onx6) on what you think should go in the next codes/topics/version. Thanks!
 
 
 Java is one of the most popular programming languages around, but no one seems to enjoy using it. 
