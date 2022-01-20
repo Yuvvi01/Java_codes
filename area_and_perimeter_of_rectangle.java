@@ -1,3 +1,5 @@
+//area and perimeter of a rectangle
+
 import java.util.Scanner;
 public class area_and_perimeter_of_rectangle {
     public static void main(String[] args) {
